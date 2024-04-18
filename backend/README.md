@@ -1,2 +1,1 @@
-# facebook-clone-service
-facebook-clone-service
+Blog Application
